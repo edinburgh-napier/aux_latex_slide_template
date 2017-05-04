@@ -1,7 +1,7 @@
 # enu-beamer-theme
 A LaTeX Beamer theme for use in the School of Computing @ Edinburgh Napier University
 
-# Quick Start
+## Quick Start
 
 - Fork this repository
 - Add your information directly in GitHub
